@@ -75,7 +75,7 @@ Status pengembangan fitur saat ini telah memenuhi seluruh *requirement* proyek:
 ---
 
 ## 8. Struktur Direktori
-Pastikan struktur folder Anda seperti berikut sebelum menjalankan program:
+struktur sebelum menjalankan program (sementara) :
 ```text
 Shield-Deflector/
 │
