@@ -78,12 +78,6 @@ Status pengembangan fitur saat ini telah memenuhi seluruh *requirement* proyek:
 struktur sebelum menjalankan program (sementara) :
 ```text
 Shield-Deflector/
-│
-├── assets/                 # Direktori penyimpanan gambar/sprite
-│   ├── shield.png
-│   ├── projectile_blue.png
-│   └── projectile_red.png
-│
 ├── main.py                 # Kode sumber utama game
 └── README.md               # Dokumentasi proyek
 ```
