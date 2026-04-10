@@ -76,11 +76,29 @@ Game ini menantang pemain untuk merespons proyektil tidak hanya dengan menahan (
 
 ---
 
-## 7. Cara Menjalankan Program
+# Bab 7: Cara Menjalankan Program
+doc.add_heading('7. Cara Menjalankan Program', level=1)
 
-### 1. Prasyarat
-Pastikan Python 3.x sudah terpasang.
+# Poin 1
+p1 = doc.add_paragraph('1. ')
+p1.add_run('Prasyarat:').bold = True
+p1.add_run(' Pastikan Python 3.x sudah terpasang di perangkat Anda.')
 
-### 2. Instalasi Library
-```bash
-pip install opencv-python numpy
+# Poin 2
+p2 = doc.add_paragraph('2. ')
+p2.add_run('Instalasi Library:').bold = True
+p2.add_run(' Buka terminal/command prompt dan instal dependencies yang dibutuhkan dengan perintah:\n')
+p2.add_run('   pip install opencv-python numpy').italic = True
+
+# Poin 3
+p3 = doc.add_paragraph('3. ')
+p3.add_run('Eksekusi:').bold = True
+p3.add_run(' Jalankan file utama program menggunakan perintah:\n')
+p3.add_run('   python main.py').italic = True
+
+# Poin 4
+p4 = doc.add_paragraph('4. ')
+p4.add_run('Kontrol:').bold = True
+p4.add_run('\n   • Gerakkan tangan di depan kamera untuk mengontrol shield.')
+p4.add_run('\n   • Lakukan gerakan ayunan cepat untuk melakukan Parry.')
+p4.add_run('\n   • Tekan tombol \'q\' atau \'Esc\' pada keyboard untuk keluar dari permainan.')
