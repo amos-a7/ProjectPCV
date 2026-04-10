@@ -93,13 +93,4 @@ Shield-Deflector/
 ## 9. Tangkapan Layar & Demonstrasi
 
 ### Tangkapan Layar (Screenshots)
-*(Tangkapan layar proses deteksi warna kulit menggunakan NumPy)*
-![Masking Process](Masukkan_Link_Gambar_Disini)
 
-*(Tangkapan layar gameplay utama)*
-![Gameplay](Masukkan_Link_Gambar_Disini)
-
-### Video Demonstrasi
-Tautan video demonstrasi *progress* (M7) dan final (M15) dapat dilihat pada tautan YouTube berikut:
-- **[Demo Progress Pertemuan 7 (M7)]** : [Masukkan Link YouTube Demo M7]
-- **[Final Demo Pertemuan 15 (M15)]** : [Masukkan Link YouTube Demo M15]
