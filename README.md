@@ -1,3 +1,7 @@
+
+
+
+
 # Shield Deflector 🛡️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -308,7 +312,7 @@ Ini screenshot gameplay:
 
 Lihat gameplay dalam aksi:
 
-[![Gameplay Demo](Asset/demo_game/Screenshot.png)](Asset/demo_game/Screen%20Recording%202026-06-05%20233855%20(1).mp4)
+[![Gameplay Demo](https://github.com/user-attachments/assets/a0362fb5-e15a-49cd-afdb-db55537b6634)
 
 > **Catatan**: Ganti `gameplay_screenshot.png` dan `gameplay_demo.mp4` pake file punya lo sendiri!
 
