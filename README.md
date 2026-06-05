@@ -302,13 +302,13 @@ upper_skin2 = np.array([180, 255, 255])
 
 Ini screenshot gameplay:
 
-![Gameplay Demo]()
+![Gameplay Demo](assets/gambar/gameplay_screenshot.png)
 
 ### Video Demo
 
 Lihat gameplay dalam aksi:
 
-[![Gameplay Video](assets/gambar/video_thumbnail.png)](assets/video/gameplay_demo.mp4)
+[![Gameplay Video](assets/gambar/video_thumbnail.png)](assets/demo_game/Screen Recording 2026-06-05 233855 (1).mp4)
 
 > **Catatan**: Ganti `gameplay_screenshot.png` dan `gameplay_demo.mp4` pake file punya lo sendiri!
 
