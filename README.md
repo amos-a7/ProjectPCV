@@ -308,7 +308,7 @@ Ini screenshot gameplay:
 
 Lihat gameplay dalam aksi:
 
-[![Gameplay Video](assets/gambar/video_thumbnail.png)](assets/demo_game/Screen Recording 2026-06-05 233855 (1).mp4)
+[![Gameplay Demo](Asset/demo_game/Screenshot.png)](Asset/demo_game/Screen%20Recording%202026-06-05%20233855%20(1).mp4)
 
 > **Catatan**: Ganti `gameplay_screenshot.png` dan `gameplay_demo.mp4` pake file punya lo sendiri!
 
