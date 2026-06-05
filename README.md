@@ -15,7 +15,6 @@
 
 **Shield Deflector** itu game interaktif yang seru bro! Konsepnya simple: pake webcam lo buat ngontrol shield (perisai), terus deflect batu-batuan dan bola api yang pada jatuh dari atas. Gabungan OpenCV buat hand detection sama game mechanics yang lumayan gampang dipahami.
 
-Jadi basically, lo coba selamet diri sendiri pake hand gesture, nambah score, sampe HP lo abis. Simple tapi adiktif sih wkwkw.
 
 ---
 
