@@ -52,16 +52,19 @@ Players control a shield using only their webcam, deflecting falling rocks and f
 
 ```
 shield-deflector/
-├── game.py                      # Main game loop and core gameplay logic
-├── gambar_tes/                  # Asset directory
-│   ├── shield_transparan.png    # Shield sprite (PNG with alpha)
-│   ├── batu.png                 # Rock sprite (PNG with alpha)
-│   ├── api.png                  # Fireball sprite (PNG with alpha)
-│   ├── viacheslavstarostin-...  # Background music file
-│   └── gamesound-broken-...     # Object hit sound effect
-│   └── universfield-...         # Fireball hit sound effect
-├── README.md                    # Project documentation
-└── .gitignore                   # Git ignore rules
+├── assets/
+│   ├── api.png
+│   ├── batu.png
+│   ├── shield_transparan.png
+│   └── sound/
+│       ├── gamesound-broken-454907.mp3
+│       ├── universfield-powerful-cannon-shot-352459.mp3
+│       └── viacheslavstarostin-game-gaming-video-game-music-471936.mp3
+├── game.py                (sudah update path)
+├── README.md              (lengkap & professional)
+├── requirements.txt       (dependencies list)
+├── .gitignore            (git config)
+└── .git/                 (folder git repo)
 ```
 
 ## 🚀 Installation Guide
