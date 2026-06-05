@@ -312,9 +312,9 @@ Ini screenshot gameplay:
 
 Lihat gameplay dalam aksi:
 
-[![Gameplay Demo](https://github.com/user-attachments/assets/a0362fb5-e15a-49cd-afdb-db55537b6634)
+https://github.com/user-attachments/assets/a0362fb5-e15a-49cd-afdb-db55537b6634
 
-> **Catatan**: Ganti `gameplay_screenshot.png` dan `gameplay_demo.mp4` pake file punya lo sendiri!
+
 
 ### Cara Nambahin Screenshot/Video Sendiri
 
