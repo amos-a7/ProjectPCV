@@ -4,8 +4,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-85C1E2?style=flat&logo=pygame&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active%20Development-blue?style=flat)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 ## 🎮 Description
 
