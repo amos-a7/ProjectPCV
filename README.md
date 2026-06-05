@@ -306,7 +306,8 @@ upper_skin2 = np.array([180, 255, 255])
 
 Ini screenshot gameplay:
 
-![Gameplay Demo](Asset)
+<img width="1644" height="878" alt="Screenshot 2026-06-05 234033" src="https://github.com/user-attachments/assets/0bbcc3b2-7c0c-4e4f-9af6-f1c75a063efe" />
+
 
 ### Video Demo
 
